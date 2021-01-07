@@ -9,4 +9,4 @@ Requires an already registered OAuth app in GitHub with the following values
 ## Usage
 
 1. In `src/config.js` update the values to match your `OAUTH_APP_CLIENT_ID` and `CLIENT_SECRET`
-2. Run `npm install && npm start` and open `localhost:8000`
+2. Run `npm install && npm start` and open `http://localhost:8000/auth/github`
