@@ -2,9 +2,9 @@
 
 ## Prerequisites
 
-Requires an already registered OAuth app in GitHub with the following values
+Requires an already registered OAuth app in [GitHub](https://github.com/settings/applications/new) with the following values
 
-![alt text](https://user-images.githubusercontent.com/34455928/103904841-d2ca7980-50cb-11eb-96ff-aa2ea0b02224.png "Registering GitHub Oauth app")
+![alt text](https://user-images.githubusercontent.com/34455928/103910586-ff35c400-50d2-11eb-871e-d5c92b9e14e3.png "Registering GitHub Oauth app")
 
 ## Usage
 
