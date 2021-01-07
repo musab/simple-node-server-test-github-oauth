@@ -1,4 +1,4 @@
-# Simple Node server to test GitHub OAuth flow
+# Simple Node server to test GitHub OAuth App flow
 
 ## Prerequisites
 
